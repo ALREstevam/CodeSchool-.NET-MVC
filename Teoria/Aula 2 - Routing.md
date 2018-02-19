@@ -1,4 +1,3 @@
-
 # Aula 2 - Rotas (Routes)
 
 A aplicação decide qual view mostrar usando um sistema chamado routes que diz para a web applicatio qual controller e ação do controller acessar com base na URL.
@@ -25,7 +24,7 @@ Irá ser mapeado como:
 
 Assim, o comando `return View();` retornará o arquivo `Views/Home/Index.cshtml`
 
-![https://github.com/ALREstevam/CodeSchool-.NET-MVC/blob/master/Teoria/fotos/05-routesthecontrolleralsomapstotheview?raw=true](https://github.com/ALREstevam/CodeSchool-.NET-MVC/blob/master/Teoria/fotos/05-routesthecontrolleralsomapstotheview?raw=true)
+![https://github.com/ALREstevam/CodeSchool-.NET-MVC/blob/master/Teoria/fotos/05-routesthecontrolleralsomapstotheview.PNG?raw=true](https://github.com/ALREstevam/CodeSchool-.NET-MVC/blob/master/Teoria/fotos/05-routesthecontrolleralsomapstotheview.PNG?raw=true)
 
 
 ## Rotas omitidas
